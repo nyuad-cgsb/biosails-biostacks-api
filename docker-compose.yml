@@ -1,0 +1,232 @@
+version: '3'
+
+# Run as
+# docker-compose build; docker-compose up -d
+# Check with
+# docker ps
+# Then check the logs with
+# docker logs --tail 50 $container_id
+# docker-compose logs --tail 20 tf_counts
+
+services:
+  # RabbitMQ, used by the flask app to queue up jobs whee
+  rabbit:
+    hostname: rabbit
+    image: rabbitmq:latest
+    environment:
+      - RABBITMQ_DEFAULT_USER=admin
+      - RABBITMQ_DEFAULT_PASS=mypass
+      - SERVICE_PORTS=5672
+      - TCP_PORTS=5672
+    #        ports:
+    #            - "5672:5672"
+    networks:
+      - app-tier
+
+  celery_results_postgres_db:
+    hostname: celery_results_postgres_db
+    image: postgres:11.1
+    environment:   # Set up postgres database name and password
+      POSTGRES_PASSWORD: password
+      POSTGRES_DATABASE: celery
+      POSTGRES_USER: celery
+      #        ports:    # Set up ports exposed for other containers to connect to
+      #            - 5433:5432
+      #        volumes:
+      #- ./postgres:/docker-entrypoint-initdb.d
+    #          - ./postgres:/etc/postgres/conf.d/
+    networks:
+      - app-tier
+
+  airflow_postgres_db:
+    hostname: airflow_postgres_db
+    image: postgres:11.1
+    environment:   # Set up postgres database name and password
+      POSTGRES_DATABASE: airflow
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: password
+      POSTGRES_HOST: localhost
+    #        ports:    # Set up ports exposed for other containers to connect to
+    #            - 5434:5432
+    #        volumes:
+    #          - ./postgres/:/etc/postgres/conf.d/
+    networks:
+      - app-tier
+
+
+  # In order to build the image run
+  # It needs to be retagged to upload to quay
+  # docker-compose build --force-rm
+  # docker tag sequence_automation_airflow quay.io/nyuad_cgsb/sequence_automation_airflow:latest
+  airflow_sequencer_automation:
+    #        image: quay.io/nyuad_cgsb/sequence_automation_airflow
+    env_file:
+      - .env
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      - celery_results_postgres_db
+      - airflow_postgres_db
+      - rabbit
+    links:
+      - celery_results_postgres_db
+      - airflow_postgres_db
+      - rabbit
+    environment:
+      RABBIT_RESULTS_HOST: celery_results_postgres_db
+      AIRFLOW_HOST: airflow_postgres_db
+      RABBIT_MQ_HOST: rabbit
+      C_FORCE_ROOT: 'true'
+      AIRFLOW_GPL_UNIDECODE: 'yes'
+    command: >
+      bash -c "/root/scripts/install_python_packages.sh; /root/scripts/wait-for-it.sh -p 5432 -h airflow_postgres_db -- airflow initdb; /root/scripts/airflow_init_args.sh; tail -f /dev/null"
+    volumes:
+      - ./pkgs:/root/pkgs
+      - ./html:/root/html:rw
+      - ./airflow:/root/airflow
+      - ./plugins:/root/plugins
+      - ./dags:/root/dags
+      - ./.ssh:/root/.ssh
+      - ./scripts:/root/scripts
+    networks:
+      - app-tier
+
+  airflow_sequencer_automation_scheduler:
+    #        image: quay.io/nyuad_cgsb/sequence_automation_airflow
+    env_file:
+      - .env
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      - celery_results_postgres_db
+      - airflow_postgres_db
+      - rabbit
+      - airflow_sequencer_automation
+    links:
+      - celery_results_postgres_db
+      - airflow_postgres_db
+      - rabbit
+    environment:
+      RABBIT_RESULTS_HOST: celery_results_postgres_db
+      AIRFLOW_HOST: airflow_postgres_db
+      RABBIT_MQ_HOST: rabbit
+      C_FORCE_ROOT: 'true'
+      AIRFLOW_GPL_UNIDECODE: 'yes'
+    command: >
+      bash -c "/root/scripts/install_python_packages.sh; /root/scripts/wait-for-it.sh -p 5432 -h airflow_postgres_db --  airflow scheduler"
+    volumes:
+      - ./pkgs:/root/pkgs
+      - ./html:/root/html:rw
+      - ./airflow:/root/airflow
+      - ./plugins:/root/plugins
+      - ./dags:/root/dags
+      - ./.ssh:/root/.ssh
+      - ./scripts:/root/scripts
+    networks:
+      - app-tier
+
+  airflow_sequencer_automation_webserver:
+    #        image: quay.io/nyuad_cgsb/sequence_automation_airflow
+    env_file:
+      - .env
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      - celery_results_postgres_db
+      - airflow_postgres_db
+      - rabbit
+      - airflow_sequencer_automation
+      - airflow_sequencer_automation_scheduler
+    links:
+      - celery_results_postgres_db
+      - airflow_postgres_db
+      - rabbit
+    environment:
+      RABBIT_RESULTS_HOST: celery_results_postgres_db
+      AIRFLOW_HOST: airflow_postgres_db
+      RABBIT_MQ_HOST: rabbit
+      C_FORCE_ROOT: 'true'
+      AIRFLOW_GPL_UNIDECODE: 'yes'
+    command: >
+      bash -c "/root/scripts/install_python_packages.sh; /root/scripts/wait-for-it.sh -p 5432 -h airflow_postgres_db -- airflow webserver"
+    volumes:
+      - ./pkgs:/root/pkgs
+      - ./html:/root/html:rw
+      - ./airflow:/root/airflow
+      - ./plugins:/root/plugins
+      - ./dags:/root/dags
+      - ./.ssh:/root/.ssh
+      - ./scripts:/root/scripts
+    ports:
+      - "8082:8080"
+#      - "5002:5000"
+    networks:
+      - app-tier
+
+  airflow_sequencer_automation_worker:
+    #        image: quay.io/nyuad_cgsb/sequence_automation_airflow
+    env_file:
+      - .env
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      - celery_results_postgres_db
+      - airflow_postgres_db
+      - rabbit
+      - airflow_sequencer_automation
+      - airflow_sequencer_automation_scheduler
+    links:
+      - celery_results_postgres_db
+      - airflow_postgres_db
+      - rabbit
+    environment:
+      RABBIT_RESULTS_HOST: celery_results_postgres_db
+      AIRFLOW_HOST: airflow_postgres_db
+      RABBIT_MQ_HOST: rabbit
+      C_FORCE_ROOT: 'true'
+      AIRFLOW_GPL_UNIDECODE: 'yes'
+    command: >
+      bash -c "/root/scripts/install_python_packages.sh; /root/scripts/wait-for-it.sh -p 5432 -h airflow_postgres_db --  airflow worker"
+    volumes:
+      - ./pkgs:/root/pkgs
+      - ./html:/root/html:rw
+      - ./airflow:/root/airflow
+      - ./plugins:/root/plugins
+      - ./dags:/root/dags
+      - ./.ssh:/root/.ssh
+      - ./scripts:/root/scripts
+    networks:
+      - app-tier
+
+  demultiplex_reports:
+    image: nginx
+    depends_on:
+      - celery_results_postgres_db
+      - airflow_postgres_db
+      - rabbit
+      - airflow_sequencer_automation
+      - airflow_sequencer_automation_scheduler
+    volumes:
+      - ./html:/usr/share/nginx/html:rw
+    networks:
+      - app-tier
+    ports:
+      - "8081:80"
+
+  mongo:
+    image: mongo
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: password
+    networks:
+      - app-tier
+
+networks:
+  app-tier:
+    driver: bridge
+

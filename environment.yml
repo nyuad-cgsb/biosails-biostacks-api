@@ -1,0 +1,22 @@
+name: sequencer-automation 
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - anaconda-client
+  - sshtunnel
+  - jira
+  - flower
+  - celery
+  - ipython
+  - psycopg2
+  - paramiko
+  - pymongo
+  - pip:
+    - Flask==1.0.4
+    - Flask-Cors
+    - flask-restplus
+    - apache-airflow==1.10.3
+    - apache-airflow[postgres]
+
