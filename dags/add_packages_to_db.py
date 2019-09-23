@@ -3,7 +3,17 @@ from pymongo import MongoClient
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
 from datetime import datetime, timedelta
+import json
+from bson import ObjectId
 from pprint import pprint
+
+
+class JSONEncoder(json.JSONEncoder):
+    def default(self, o):
+        if isinstance(o, ObjectId):
+            return str(o)
+        return json.JSONEncoder.default(self, o)
+
 
 client = MongoClient('mongodb://root:password@mongo:27017/')
 db = client.gencore_modules
@@ -165,4 +175,3 @@ submit_qc_workflow_task = PythonOperator(
     provide_context=True,
     python_callable=get_envs_and_add_to_db,
 )
-

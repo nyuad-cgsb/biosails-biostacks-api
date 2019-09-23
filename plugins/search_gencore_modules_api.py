@@ -2,20 +2,25 @@
 from airflow.plugins_manager import AirflowPlugin
 import json
 
-from add_packages_to_db import find_package_by_dep
+from add_packages_to_db import find_package_by_dep, JSONEncoder
 from flask import Blueprint, jsonify, request
 from flask_admin import BaseView, expose
 from flask_admin.base import MenuLink
-
-# Importing base classes that we need to derive
-from airflow.hooks.base_hook import BaseHook
-from airflow.models import BaseOperator
-from airflow.sensors.base_sensor_operator import BaseSensorOperator
-from airflow.executors.base_executor import BaseExecutor
 from airflow.www.app import csrf
 
 """
 This plugin serves up an API for searching gencore modules
+Call it in python like so:
+
+```
+import requests
+import json
+uri = 'http://localhost:8082/admin/search/search_modules'
+body = {"name": "samtools"}
+r = requests.post(uri, json=body) 
+json_content = request.content
+content = json.loads(json_content)
+```
 """
 
 # Creating a flask blueprint to integrate the templates and static folder
@@ -23,6 +28,7 @@ This plugin serves up an API for searching gencore modules
 # <link rel="stylesheet" href="{{ url_for('search_plugin.static', filename='styles.css') }}" type="text/css">
 SearchBlueprint = Blueprint(
     "search_plugin", __name__,
+    url_prefix='/search',
     template_folder='templates',
     static_folder='static',
     static_url_path='/static/search_plugin')
@@ -30,7 +36,7 @@ SearchBlueprint = Blueprint(
 
 class Search(BaseView):
     """This creates a flask admin blueprint view
-    It shows up as http://localhost:8080/admin/searchpluginview/
+    It shows up as http://localhost:8080/admin/search/
     """
 
     @expose('/')
@@ -44,7 +50,7 @@ class Search(BaseView):
     @expose('/health', methods=['GET'])
     @csrf.exempt
     def health(self):
-        """Appears at : http://localhost:8080/admin/search/hello
+        """Appears at : http://localhost:8080/admin/search/health
         This is just an example of how to use the rest API in a flask blueprint"""
         return jsonify({'health': 'Status OK'})
 
@@ -59,6 +65,10 @@ class Search(BaseView):
             if 'version' in request_data:
                 version = request_data.get('version')
             modules = find_package_by_dep(name, version)
+            for i, m in enumerate(modules):
+                m = JSONEncoder().encode(m)
+                m = json.loads(m)
+                modules[i] = m
             results['modules'] = modules
         except Exception as e:
             results['error'] = str(e)
@@ -87,6 +97,6 @@ class AirflowSearchPlugin(AirflowPlugin):
     hooks = []
     executors = []
     macros = []
-    admin_views = []
+    admin_views = [v]
     flask_blueprints = [SearchBlueprint]
     menu_links = [ml]
