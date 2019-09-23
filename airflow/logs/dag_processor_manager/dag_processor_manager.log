@@ -27336,3 +27336,1813 @@ File Path                           PID  Runtime    Last Runtime    Last Run
 --------------------------------  -----  ---------  --------------  -------------------
 /root/dags/add_packages_to_db.py  18558  0.00s      1.00s           2019-09-23T09:04:22
 ================================================================================
+[2019-09-23 09:04:29,144] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:04:29,145] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 08:59:29.145701+00:00
+[2019-09-23 09:04:39,159] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:04:39,160] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 08:59:39.160337+00:00
+[2019-09-23 09:04:49,174] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:04:49,175] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 08:59:49.175795+00:00
+[2019-09-23 09:04:52,183] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  18678  0.00s      1.00s           2019-09-23T09:04:52
+================================================================================
+[2019-09-23 09:05:00,155] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:05:00,163] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:00:00.163800+00:00
+[2019-09-23 09:05:10,174] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:05:10,176] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:00:10.175994+00:00
+[2019-09-23 09:05:20,190] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:05:20,192] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:00:20.192057+00:00
+[2019-09-23 09:05:22,199] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  18798  0.00s      1.00s           2019-09-23T09:05:22
+================================================================================
+[2019-09-23 09:05:31,170] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:05:31,172] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:00:31.172548+00:00
+[2019-09-23 09:05:41,185] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:05:41,188] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:00:41.188190+00:00
+[2019-09-23 09:05:51,202] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:05:51,203] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:00:51.203746+00:00
+[2019-09-23 09:05:52,210] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  18918  0.00s      0.99s           2019-09-23T09:05:52
+================================================================================
+[2019-09-23 09:06:02,182] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:06:02,185] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:01:02.185459+00:00
+[2019-09-23 09:06:12,197] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:06:12,199] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:01:12.198941+00:00
+[2019-09-23 09:06:22,213] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:06:22,215] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:01:22.215871+00:00
+[2019-09-23 09:06:22,229] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  19038  0.00s      1.00s           2019-09-23T09:06:22
+================================================================================
+[2019-09-23 09:06:33,202] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:06:33,204] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:01:33.204547+00:00
+[2019-09-23 09:06:43,218] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:06:43,220] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:01:43.220815+00:00
+[2019-09-23 09:06:52,236] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  19158  0.00s      1.00s           2019-09-23T09:06:52
+================================================================================
+[2019-09-23 09:06:53,232] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:06:53,233] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:01:53.233695+00:00
+[2019-09-23 09:07:04,218] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:07:04,223] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:02:04.222987+00:00
+[2019-09-23 09:07:10,232] {dag_processing.py:899} INFO - Searching for files in /root/dags
+[2019-09-23 09:07:10,258] {dag_processing.py:902} INFO - There are 1 files in /root/dags
+[2019-09-23 09:07:14,240] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:07:14,242] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:02:14.242071+00:00
+[2019-09-23 09:07:22,262] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  19278  0.00s      1.00s           2019-09-23T09:07:22
+================================================================================
+[2019-09-23 09:07:25,226] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:07:25,227] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:02:25.227501+00:00
+[2019-09-23 09:07:35,244] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:07:35,245] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:02:35.245920+00:00
+[2019-09-23 09:07:45,261] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:07:45,262] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:02:45.262636+00:00
+[2019-09-23 09:07:52,282] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  19398  0.00s      1.00s           2019-09-23T09:07:52
+================================================================================
+[2019-09-23 09:07:56,246] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:07:56,247] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:02:56.247929+00:00
+[2019-09-23 09:08:06,267] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:08:06,269] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:03:06.269299+00:00
+[2019-09-23 09:08:16,284] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:08:16,285] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:03:16.285920+00:00
+[2019-09-23 09:08:22,303] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  19518  0.00s      1.00s           2019-09-23T09:08:22
+================================================================================
+[2019-09-23 09:08:27,266] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:08:27,274] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:03:27.274494+00:00
+[2019-09-23 09:08:38,283] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:08:38,285] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:03:38.285335+00:00
+[2019-09-23 09:08:48,301] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:08:48,303] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:03:48.303313+00:00
+[2019-09-23 09:08:52,313] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  19638  0.00s      1.00s           2019-09-23T09:08:52
+================================================================================
+[2019-09-23 09:08:59,283] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:08:59,285] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:03:59.285746+00:00
+[2019-09-23 09:09:09,300] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:09:09,307] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:04:09.307426+00:00
+[2019-09-23 09:09:19,321] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:09:19,322] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:04:19.322448+00:00
+[2019-09-23 09:09:22,333] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  19758  0.00s      1.00s           2019-09-23T09:09:22
+================================================================================
+[2019-09-23 09:09:30,306] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:09:30,308] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:04:30.308101+00:00
+[2019-09-23 09:09:40,324] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:09:40,326] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:04:40.326259+00:00
+[2019-09-23 09:09:50,334] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:09:50,336] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:04:50.336384+00:00
+[2019-09-23 09:09:52,342] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  19878  0.00s      1.00s           2019-09-23T09:09:52
+================================================================================
+[2019-09-23 09:10:01,315] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:10:01,316] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:05:01.316257+00:00
+[2019-09-23 09:10:11,330] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:10:11,331] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:05:11.331611+00:00
+[2019-09-23 09:10:21,343] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:10:21,344] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:05:21.344696+00:00
+[2019-09-23 09:10:22,351] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  19998  0.00s      0.99s           2019-09-23T09:10:22
+================================================================================
+[2019-09-23 09:10:32,322] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:10:32,323] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:05:32.323709+00:00
+[2019-09-23 09:10:42,336] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:10:42,338] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:05:42.338174+00:00
+[2019-09-23 09:10:52,350] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:10:52,352] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:05:52.352305+00:00
+[2019-09-23 09:10:52,365] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  20118  0.00s      1.00s           2019-09-23T09:10:52
+================================================================================
+[2019-09-23 09:11:03,331] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:11:03,333] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:06:03.333455+00:00
+[2019-09-23 09:11:13,348] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:11:13,350] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:06:13.350596+00:00
+[2019-09-23 09:11:22,371] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  20238  0.00s      1.00s           2019-09-23T09:11:22
+================================================================================
+[2019-09-23 09:11:24,331] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:11:24,333] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:06:24.333234+00:00
+[2019-09-23 09:11:34,349] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:11:34,351] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:06:34.351161+00:00
+[2019-09-23 09:11:44,362] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:11:44,364] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:06:44.364111+00:00
+[2019-09-23 09:11:52,380] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  20358  0.00s      1.00s           2019-09-23T09:11:52
+================================================================================
+[2019-09-23 09:11:55,347] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:11:55,348] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:06:55.348201+00:00
+[2019-09-23 09:12:05,366] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:12:05,368] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:07:05.368293+00:00
+[2019-09-23 09:12:10,374] {dag_processing.py:899} INFO - Searching for files in /root/dags
+[2019-09-23 09:12:10,390] {dag_processing.py:902} INFO - There are 1 files in /root/dags
+[2019-09-23 09:12:15,382] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:12:15,384] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:07:15.384764+00:00
+[2019-09-23 09:12:22,401] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  20478  0.00s      1.00s           2019-09-23T09:12:22
+================================================================================
+[2019-09-23 09:12:26,363] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:12:26,365] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:07:26.365059+00:00
+[2019-09-23 09:12:36,379] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:12:36,380] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:07:36.380555+00:00
+[2019-09-23 09:12:46,396] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:12:46,398] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:07:46.398162+00:00
+[2019-09-23 09:12:52,412] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  20598  0.00s      1.00s           2019-09-23T09:12:52
+================================================================================
+[2019-09-23 09:12:57,387] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:12:57,388] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:07:57.388646+00:00
+[2019-09-23 09:13:07,404] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:13:07,408] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:08:07.407932+00:00
+[2019-09-23 09:13:17,418] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:13:17,420] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:08:17.420595+00:00
+[2019-09-23 09:13:22,440] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  20730  0.00s      1.00s           2019-09-23T09:13:22
+================================================================================
+[2019-09-23 09:13:28,399] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:13:28,400] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:08:28.400305+00:00
+[2019-09-23 09:13:38,413] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:13:38,414] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:08:38.414377+00:00
+[2019-09-23 09:13:48,430] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:13:48,431] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:08:48.431424+00:00
+[2019-09-23 09:13:53,407] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  20898  0.00s      0.96s           2019-09-23T09:13:53
+================================================================================
+[2019-09-23 09:13:59,410] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:13:59,411] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:08:59.411838+00:00
+[2019-09-23 09:14:09,425] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:14:09,429] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:09:09.429895+00:00
+[2019-09-23 09:14:20,439] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:14:20,441] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:09:20.441107+00:00
+[2019-09-23 09:14:23,414] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  21018  0.00s      0.96s           2019-09-23T09:14:23
+================================================================================
+[2019-09-23 09:14:31,417] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:14:31,419] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:09:31.418929+00:00
+[2019-09-23 09:14:41,436] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:14:41,437] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:09:41.437105+00:00
+[2019-09-23 09:14:51,450] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:14:51,451] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:09:51.451706+00:00
+[2019-09-23 09:14:53,429] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  21138  0.00s      0.96s           2019-09-23T09:14:53
+================================================================================
+[2019-09-23 09:15:02,431] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:15:02,438] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:10:02.438579+00:00
+[2019-09-23 09:15:13,450] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:15:13,453] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:10:13.452992+00:00
+[2019-09-23 09:15:23,438] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  21258  0.00s      0.96s           2019-09-23T09:15:23
+================================================================================
+[2019-09-23 09:15:24,433] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:15:24,434] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:10:24.434486+00:00
+[2019-09-23 09:15:34,450] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:15:34,454] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:10:34.453913+00:00
+[2019-09-23 09:15:45,469] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:15:45,471] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:10:45.471528+00:00
+[2019-09-23 09:15:53,454] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  21378  0.00s      0.96s           2019-09-23T09:15:53
+================================================================================
+[2019-09-23 09:15:56,452] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:15:56,454] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:10:56.453987+00:00
+[2019-09-23 09:16:06,467] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:16:06,468] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:11:06.468899+00:00
+[2019-09-23 09:16:16,486] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:16:16,488] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:11:16.488605+00:00
+[2019-09-23 09:16:23,468] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  21498  0.00s      0.96s           2019-09-23T09:16:23
+================================================================================
+[2019-09-23 09:16:27,470] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:16:27,472] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:11:27.472196+00:00
+[2019-09-23 09:16:37,487] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:16:37,489] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:11:37.489540+00:00
+[2019-09-23 09:16:47,503] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:16:47,504] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:11:47.504924+00:00
+[2019-09-23 09:16:53,481] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  21618  0.00s      0.96s           2019-09-23T09:16:53
+================================================================================
+[2019-09-23 09:16:58,480] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:16:58,482] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:11:58.482126+00:00
+[2019-09-23 09:17:08,495] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:17:08,496] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:12:08.496713+00:00
+[2019-09-23 09:17:10,496] {dag_processing.py:899} INFO - Searching for files in /root/dags
+[2019-09-23 09:17:10,515] {dag_processing.py:902} INFO - There are 1 files in /root/dags
+[2019-09-23 09:17:18,510] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:17:18,514] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:12:18.514292+00:00
+[2019-09-23 09:17:23,490] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  21738  0.00s      0.96s           2019-09-23T09:17:23
+================================================================================
+[2019-09-23 09:17:29,493] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:17:29,494] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:12:29.494328+00:00
+[2019-09-23 09:17:39,509] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:17:39,511] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:12:39.511747+00:00
+[2019-09-23 09:17:49,527] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:17:49,528] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:12:49.528729+00:00
+[2019-09-23 09:17:53,506] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  21858  0.00s      0.96s           2019-09-23T09:17:53
+================================================================================
+[2019-09-23 09:18:00,511] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:18:00,515] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:13:00.515357+00:00
+[2019-09-23 09:18:10,528] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:18:10,530] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:13:10.529998+00:00
+[2019-09-23 09:18:20,543] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:18:20,544] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:13:20.544909+00:00
+[2019-09-23 09:18:23,518] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  21978  0.00s      0.96s           2019-09-23T09:18:23
+================================================================================
+[2019-09-23 09:18:31,528] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:18:31,529] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:13:31.529565+00:00
+[2019-09-23 09:18:41,544] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:18:41,546] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:13:41.545949+00:00
+[2019-09-23 09:18:51,563] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:18:51,570] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:13:51.570306+00:00
+[2019-09-23 09:18:53,538] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  22098  0.00s      0.96s           2019-09-23T09:18:53
+================================================================================
+[2019-09-23 09:19:02,546] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:19:02,548] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:14:02.548301+00:00
+[2019-09-23 09:19:12,561] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:19:12,563] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:14:12.563005+00:00
+[2019-09-23 09:19:22,580] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:19:22,581] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:14:22.581600+00:00
+[2019-09-23 09:19:23,552] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  22218  0.00s      0.95s           2019-09-23T09:19:23
+================================================================================
+[2019-09-23 09:19:33,563] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:19:33,566] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:14:33.566626+00:00
+[2019-09-23 09:19:43,579] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:19:43,580] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:14:43.580917+00:00
+[2019-09-23 09:19:53,562] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  22338  0.00s      1.00s           2019-09-23T09:19:53
+================================================================================
+[2019-09-23 09:19:54,558] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:19:54,559] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:14:54.559240+00:00
+[2019-09-23 09:20:04,571] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:20:04,573] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:15:04.573535+00:00
+[2019-09-23 09:20:14,588] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:20:14,590] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:15:14.590069+00:00
+[2019-09-23 09:20:23,574] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  22458  0.00s      1.00s           2019-09-23T09:20:23
+================================================================================
+[2019-09-23 09:20:25,573] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:20:25,575] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:15:25.575594+00:00
+[2019-09-23 09:20:35,593] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:20:35,595] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:15:35.595255+00:00
+[2019-09-23 09:20:45,611] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:20:45,616] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:15:45.616327+00:00
+[2019-09-23 09:20:53,598] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  22578  0.00s      1.00s           2019-09-23T09:20:53
+================================================================================
+[2019-09-23 09:20:56,600] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:20:56,602] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:15:56.602123+00:00
+[2019-09-23 09:21:06,618] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:21:06,630] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:16:06.629885+00:00
+[2019-09-23 09:21:17,638] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:21:17,646] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:16:17.645929+00:00
+[2019-09-23 09:21:23,619] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  22698  0.00s      1.00s           2019-09-23T09:21:23
+================================================================================
+[2019-09-23 09:21:28,621] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:21:28,623] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:16:28.623012+00:00
+[2019-09-23 09:21:38,639] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:21:38,640] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:16:38.640597+00:00
+[2019-09-23 09:21:48,654] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:21:48,655] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:16:48.655692+00:00
+[2019-09-23 09:21:53,636] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  22818  0.00s      1.00s           2019-09-23T09:21:53
+================================================================================
+[2019-09-23 09:21:59,640] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:21:59,642] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:16:59.642187+00:00
+[2019-09-23 09:22:09,656] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:22:09,657] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:17:09.657610+00:00
+[2019-09-23 09:22:10,657] {dag_processing.py:899} INFO - Searching for files in /root/dags
+[2019-09-23 09:22:10,676] {dag_processing.py:902} INFO - There are 1 files in /root/dags
+[2019-09-23 09:22:19,674] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:22:19,675] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:17:19.675870+00:00
+[2019-09-23 09:22:23,653] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  22938  0.00s      1.00s           2019-09-23T09:22:23
+================================================================================
+[2019-09-23 09:22:30,657] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:22:30,659] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:17:30.659696+00:00
+[2019-09-23 09:22:40,678] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:22:40,679] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:17:40.679531+00:00
+[2019-09-23 09:22:50,694] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:22:50,696] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:17:50.696149+00:00
+[2019-09-23 09:22:53,670] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  23058  0.00s      1.00s           2019-09-23T09:22:53
+================================================================================
+[2019-09-23 09:23:01,676] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:23:01,679] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:18:01.679214+00:00
+[2019-09-23 09:23:11,695] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:23:11,697] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:18:11.697842+00:00
+[2019-09-23 09:23:21,709] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:23:21,711] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:18:21.710982+00:00
+[2019-09-23 09:23:23,682] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  23178  0.00s      1.00s           2019-09-23T09:23:23
+================================================================================
+[2019-09-23 09:23:32,693] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:23:32,694] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:18:32.694772+00:00
+[2019-09-23 09:23:42,712] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:23:42,716] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:18:42.716140+00:00
+[2019-09-23 09:23:53,696] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:23:53,698] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:18:53.698463+00:00
+[2019-09-23 09:23:53,712] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  23298  0.00s      1.00s           2019-09-23T09:23:53
+================================================================================
+[2019-09-23 09:24:03,712] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:24:03,713] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:19:03.713753+00:00
+[2019-09-23 09:24:13,726] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:24:13,728] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:19:13.728074+00:00
+[2019-09-23 09:24:24,704] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:24:24,705] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:19:24.705343+00:00
+[2019-09-23 09:24:24,716] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  23422  0.00s      1.00s           2019-09-23T09:24:24
+================================================================================
+[2019-09-23 09:24:34,718] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:24:34,719] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:19:34.719858+00:00
+[2019-09-23 09:24:44,733] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:24:44,735] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:19:44.735265+00:00
+[2019-09-23 09:24:54,721] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  23542  0.00s      1.00s           2019-09-23T09:24:54
+================================================================================
+[2019-09-23 09:24:55,714] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:24:55,715] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:19:55.715857+00:00
+[2019-09-23 09:25:05,733] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:25:05,737] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:20:05.736958+00:00
+[2019-09-23 09:25:15,747] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:25:15,748] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:20:15.748894+00:00
+[2019-09-23 09:25:24,734] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  23662  0.00s      1.00s           2019-09-23T09:25:24
+================================================================================
+[2019-09-23 09:25:26,729] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:25:26,731] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:20:26.731365+00:00
+[2019-09-23 09:25:36,750] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:25:36,751] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:20:36.751209+00:00
+[2019-09-23 09:25:46,769] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:25:46,771] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:20:46.771042+00:00
+[2019-09-23 09:25:54,760] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  23782  0.00s      1.00s           2019-09-23T09:25:54
+================================================================================
+[2019-09-23 09:25:57,756] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:25:57,758] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:20:57.758333+00:00
+[2019-09-23 09:26:07,773] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:26:07,775] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:21:07.775230+00:00
+[2019-09-23 09:26:17,788] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:26:17,789] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:21:17.789455+00:00
+[2019-09-23 09:26:24,769] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  23902  0.00s      1.00s           2019-09-23T09:26:24
+================================================================================
+[2019-09-23 09:26:28,768] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:26:28,770] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:21:28.770153+00:00
+[2019-09-23 09:26:38,786] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:26:38,788] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:21:38.788188+00:00
+[2019-09-23 09:26:48,811] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:26:48,814] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:21:48.814423+00:00
+[2019-09-23 09:26:54,792] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  24062  0.00s      1.00s           2019-09-23T09:26:54
+================================================================================
+[2019-09-23 09:26:59,797] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:26:59,799] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:21:59.799253+00:00
+[2019-09-23 09:27:09,813] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:27:09,815] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:22:09.815221+00:00
+[2019-09-23 09:27:10,814] {dag_processing.py:899} INFO - Searching for files in /root/dags
+[2019-09-23 09:27:10,831] {dag_processing.py:902} INFO - There are 1 files in /root/dags
+[2019-09-23 09:27:19,828] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:27:19,830] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:22:19.830131+00:00
+[2019-09-23 09:27:24,805] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  24198  0.00s      1.00s           2019-09-23T09:27:24
+================================================================================
+[2019-09-23 09:27:30,812] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:27:30,814] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:22:30.813958+00:00
+[2019-09-23 09:27:40,832] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:27:40,835] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:22:40.834951+00:00
+[2019-09-23 09:27:50,850] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:27:50,852] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:22:50.852128+00:00
+[2019-09-23 09:27:54,830] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  24318  0.00s      1.00s           2019-09-23T09:27:54
+================================================================================
+[2019-09-23 09:28:01,834] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:28:01,836] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:23:01.836900+00:00
+[2019-09-23 09:28:11,851] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:28:11,852] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:23:11.852719+00:00
+[2019-09-23 09:28:21,867] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:28:21,869] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:23:21.869136+00:00
+[2019-09-23 09:28:24,844] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  24438  0.00s      1.00s           2019-09-23T09:28:24
+================================================================================
+[2019-09-23 09:28:32,851] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:28:32,853] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:23:32.853012+00:00
+[2019-09-23 09:28:42,868] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:28:42,870] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:23:42.870681+00:00
+[2019-09-23 09:28:53,853] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:28:53,855] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:23:53.855808+00:00
+[2019-09-23 09:28:54,861] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  24558  0.00s      0.99s           2019-09-23T09:28:54
+================================================================================
+[2019-09-23 09:29:03,865] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:29:03,867] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:24:03.867815+00:00
+[2019-09-23 09:29:13,881] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:29:13,882] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:24:13.882948+00:00
+[2019-09-23 09:29:24,861] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:29:24,864] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:24:24.864779+00:00
+[2019-09-23 09:29:24,881] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  24678  0.00s      1.00s           2019-09-23T09:29:24
+================================================================================
+[2019-09-23 09:29:34,878] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:29:34,880] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:24:34.880427+00:00
+[2019-09-23 09:29:44,894] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:29:44,895] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:24:44.895900+00:00
+[2019-09-23 09:29:55,880] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:29:55,882] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:24:55.882746+00:00
+[2019-09-23 09:29:55,896] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  24802  0.00s      1.00s           2019-09-23T09:29:55
+================================================================================
+[2019-09-23 09:30:05,897] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:30:05,899] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:25:05.899255+00:00
+[2019-09-23 09:30:15,914] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:30:15,916] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:25:15.916535+00:00
+[2019-09-23 09:30:25,931] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:30:25,933] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:25:25.933459+00:00
+[2019-09-23 09:30:25,952] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  24922  0.00s      0.99s           2019-09-23T09:30:25
+================================================================================
+[2019-09-23 09:30:35,952] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:30:35,954] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:25:35.953878+00:00
+[2019-09-23 09:30:45,971] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:30:45,975] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:25:45.975846+00:00
+[2019-09-23 09:30:55,969] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  25042  0.00s      1.00s           2019-09-23T09:30:55
+================================================================================
+[2019-09-23 09:30:56,955] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:30:56,956] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:25:56.956909+00:00
+[2019-09-23 09:31:06,972] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:31:06,974] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:26:06.974181+00:00
+[2019-09-23 09:31:16,992] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:31:16,994] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:26:16.994069+00:00
+[2019-09-23 09:31:25,980] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  25162  0.00s      1.00s           2019-09-23T09:31:25
+================================================================================
+[2019-09-23 09:31:27,977] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:31:27,980] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:26:27.980527+00:00
+[2019-09-23 09:31:38,000] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:31:38,002] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:26:38.002289+00:00
+[2019-09-23 09:31:48,017] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:31:48,019] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:26:48.019352+00:00
+[2019-09-23 09:31:56,008] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  25282  0.00s      1.00s           2019-09-23T09:31:56
+================================================================================
+[2019-09-23 09:31:59,003] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:31:59,005] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:26:59.005247+00:00
+[2019-09-23 09:32:09,022] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:32:09,024] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:27:09.024334+00:00
+[2019-09-23 09:32:11,025] {dag_processing.py:899} INFO - Searching for files in /root/dags
+[2019-09-23 09:32:11,046] {dag_processing.py:902} INFO - There are 1 files in /root/dags
+[2019-09-23 09:32:19,040] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:32:19,042] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:27:19.042279+00:00
+[2019-09-23 09:32:26,029] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  25402  0.00s      1.00s           2019-09-23T09:32:26
+================================================================================
+[2019-09-23 09:32:30,021] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:32:30,022] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:27:30.022367+00:00
+[2019-09-23 09:32:40,033] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:32:40,037] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:27:40.037078+00:00
+[2019-09-23 09:32:50,053] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:32:50,054] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:27:50.054799+00:00
+[2019-09-23 09:32:56,037] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  25522  0.00s      1.00s           2019-09-23T09:32:56
+================================================================================
+[2019-09-23 09:33:01,039] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:33:01,041] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:28:01.041720+00:00
+[2019-09-23 09:33:11,057] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:33:11,059] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:28:11.059549+00:00
+[2019-09-23 09:33:21,074] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:33:21,076] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:28:21.076620+00:00
+[2019-09-23 09:33:26,051] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  25642  0.00s      1.00s           2019-09-23T09:33:26
+================================================================================
+[2019-09-23 09:33:32,057] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:33:32,058] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:28:32.058866+00:00
+[2019-09-23 09:33:42,071] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:33:42,072] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:28:42.072380+00:00
+[2019-09-23 09:33:53,059] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:33:53,061] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:28:53.060948+00:00
+[2019-09-23 09:33:56,069] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  25762  0.00s      1.00s           2019-09-23T09:33:56
+================================================================================
+[2019-09-23 09:34:03,075] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:34:03,078] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:29:03.078118+00:00
+[2019-09-23 09:34:13,092] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:34:13,093] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:29:13.093207+00:00
+[2019-09-23 09:34:24,079] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:34:24,100] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:29:24.100052+00:00
+[2019-09-23 09:34:26,087] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  25882  0.00s      1.00s           2019-09-23T09:34:26
+================================================================================
+[2019-09-23 09:34:35,095] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:34:35,097] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:29:35.096992+00:00
+[2019-09-23 09:34:45,110] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:34:45,111] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:29:45.111935+00:00
+[2019-09-23 09:34:56,095] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:34:56,096] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:29:56.096951+00:00
+[2019-09-23 09:34:56,107] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  26002  0.00s      1.00s           2019-09-23T09:34:56
+================================================================================
+[2019-09-23 09:35:06,116] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:35:06,117] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:30:06.117882+00:00
+[2019-09-23 09:35:16,133] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:35:16,135] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:30:16.135937+00:00
+[2019-09-23 09:35:26,124] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  26122  0.00s      1.00s           2019-09-23T09:35:26
+================================================================================
+[2019-09-23 09:35:27,118] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:35:27,119] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:30:27.119830+00:00
+[2019-09-23 09:35:37,136] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:35:37,137] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:30:37.137639+00:00
+[2019-09-23 09:35:47,155] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:35:47,157] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:30:47.157236+00:00
+[2019-09-23 09:35:56,142] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  26242  0.00s      1.00s           2019-09-23T09:35:56
+================================================================================
+[2019-09-23 09:35:58,138] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:35:58,140] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:30:58.140211+00:00
+[2019-09-23 09:36:08,158] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:36:08,160] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:31:08.160358+00:00
+[2019-09-23 09:36:18,174] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:36:18,176] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:31:18.176399+00:00
+[2019-09-23 09:36:26,159] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  26362  0.00s      1.00s           2019-09-23T09:36:26
+================================================================================
+[2019-09-23 09:36:29,160] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:36:29,162] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:31:29.161990+00:00
+[2019-09-23 09:36:39,175] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:36:39,176] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:31:39.176930+00:00
+[2019-09-23 09:36:49,192] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:36:49,194] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:31:49.194183+00:00
+[2019-09-23 09:36:56,173] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  26482  0.00s      1.00s           2019-09-23T09:36:56
+================================================================================
+[2019-09-23 09:37:00,176] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:37:00,177] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:32:00.177405+00:00
+[2019-09-23 09:37:10,196] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:37:10,198] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:32:10.198134+00:00
+[2019-09-23 09:37:11,197] {dag_processing.py:899} INFO - Searching for files in /root/dags
+[2019-09-23 09:37:11,219] {dag_processing.py:902} INFO - There are 1 files in /root/dags
+[2019-09-23 09:37:20,210] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:37:20,211] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:32:20.211437+00:00
+[2019-09-23 09:37:26,191] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  26602  0.00s      1.00s           2019-09-23T09:37:26
+================================================================================
+[2019-09-23 09:37:31,196] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:37:31,198] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:32:31.198157+00:00
+[2019-09-23 09:37:41,212] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:37:41,214] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:32:41.214062+00:00
+[2019-09-23 09:37:51,228] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:37:51,231] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:32:51.231225+00:00
+[2019-09-23 09:37:56,208] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  26722  0.00s      1.00s           2019-09-23T09:37:56
+================================================================================
+[2019-09-23 09:38:02,210] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:38:02,211] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:33:02.211696+00:00
+[2019-09-23 09:38:12,228] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:38:12,229] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:33:12.229442+00:00
+[2019-09-23 09:38:23,214] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:38:23,216] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:33:23.216684+00:00
+[2019-09-23 09:38:26,226] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  26842  0.00s      1.00s           2019-09-23T09:38:26
+================================================================================
+[2019-09-23 09:38:33,232] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:38:33,233] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:33:33.233759+00:00
+[2019-09-23 09:38:43,253] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:38:43,255] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:33:43.254992+00:00
+[2019-09-23 09:38:54,236] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:38:54,237] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:33:54.237849+00:00
+[2019-09-23 09:38:56,244] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  26962  0.00s      1.00s           2019-09-23T09:38:56
+================================================================================
+[2019-09-23 09:39:04,258] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:39:04,260] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:34:04.259996+00:00
+[2019-09-23 09:39:14,274] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:39:14,275] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:34:14.275590+00:00
+[2019-09-23 09:39:25,252] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:39:25,254] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:34:25.254485+00:00
+[2019-09-23 09:39:26,259] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  27082  0.00s      0.99s           2019-09-23T09:39:26
+================================================================================
+[2019-09-23 09:39:35,274] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:39:35,276] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:34:35.276114+00:00
+[2019-09-23 09:39:45,296] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:39:45,298] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:34:45.298061+00:00
+[2019-09-23 09:39:56,280] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:39:56,282] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:34:56.282394+00:00
+[2019-09-23 09:39:56,293] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  27202  0.00s      1.00s           2019-09-23T09:39:56
+================================================================================
+[2019-09-23 09:40:06,305] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:40:06,306] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:35:06.306746+00:00
+[2019-09-23 09:40:16,318] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:40:16,319] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:35:16.319536+00:00
+[2019-09-23 09:40:26,308] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  27322  0.00s      1.00s           2019-09-23T09:40:26
+================================================================================
+[2019-09-23 09:40:27,304] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:40:27,305] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:35:27.305862+00:00
+[2019-09-23 09:40:37,322] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:40:37,324] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:35:37.324334+00:00
+[2019-09-23 09:40:47,340] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:40:47,345] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:35:47.345396+00:00
+[2019-09-23 09:40:56,326] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  27442  0.00s      1.00s           2019-09-23T09:40:56
+================================================================================
+[2019-09-23 09:40:58,321] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:40:58,323] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:35:58.323385+00:00
+[2019-09-23 09:41:08,339] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:41:08,347] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:36:08.346954+00:00
+[2019-09-23 09:41:19,353] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:41:19,360] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:36:19.360356+00:00
+[2019-09-23 09:41:26,335] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  27562  0.00s      1.00s           2019-09-23T09:41:26
+================================================================================
+[2019-09-23 09:41:30,334] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:41:30,336] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:36:30.336440+00:00
+[2019-09-23 09:41:40,350] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:41:40,351] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:36:40.351477+00:00
+[2019-09-23 09:41:50,364] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:41:50,365] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:36:50.365352+00:00
+[2019-09-23 09:41:56,342] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  27682  0.00s      1.00s           2019-09-23T09:41:56
+================================================================================
+[2019-09-23 09:42:01,343] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:42:01,347] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:37:01.347081+00:00
+[2019-09-23 09:42:11,362] {dag_processing.py:899} INFO - Searching for files in /root/dags
+[2019-09-23 09:42:11,384] {dag_processing.py:902} INFO - There are 1 files in /root/dags
+[2019-09-23 09:42:11,390] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:42:11,391] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:37:11.391490+00:00
+[2019-09-23 09:42:22,347] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:42:22,349] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:37:22.349189+00:00
+[2019-09-23 09:42:26,361] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  27802  0.00s      1.00s           2019-09-23T09:42:26
+================================================================================
+[2019-09-23 09:42:32,368] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:42:32,377] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:37:32.377205+00:00
+[2019-09-23 09:42:42,384] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:42:42,392] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:37:42.392431+00:00
+[2019-09-23 09:42:53,368] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:42:53,369] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:37:53.369470+00:00
+[2019-09-23 09:42:56,382] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  27922  0.00s      1.00s           2019-09-23T09:42:56
+================================================================================
+[2019-09-23 09:43:03,387] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:43:03,389] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:38:03.389025+00:00
+[2019-09-23 09:43:13,404] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:43:13,410] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:38:13.410780+00:00
+[2019-09-23 09:43:24,380] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:43:24,388] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:38:24.388213+00:00
+[2019-09-23 09:43:26,391] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  28042  0.00s      1.00s           2019-09-23T09:43:26
+================================================================================
+[2019-09-23 09:43:34,399] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:43:34,400] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:38:34.400632+00:00
+[2019-09-23 09:43:44,412] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:43:44,413] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:38:44.413855+00:00
+[2019-09-23 09:43:55,397] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:43:55,398] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:38:55.398585+00:00
+[2019-09-23 09:43:56,405] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  28162  0.00s      0.99s           2019-09-23T09:43:56
+================================================================================
+[2019-09-23 09:44:05,415] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:44:05,417] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:39:05.417871+00:00
+[2019-09-23 09:44:15,432] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:44:15,434] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:39:15.434312+00:00
+[2019-09-23 09:44:26,417] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:44:26,418] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:39:26.418665+00:00
+[2019-09-23 09:44:26,431] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  28282  0.00s      1.00s           2019-09-23T09:44:26
+================================================================================
+[2019-09-23 09:44:36,437] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:44:36,438] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:39:36.438630+00:00
+[2019-09-23 09:44:46,454] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:44:46,457] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:39:46.457405+00:00
+[2019-09-23 09:44:56,439] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  28402  0.00s      1.00s           2019-09-23T09:44:56
+================================================================================
+[2019-09-23 09:44:57,435] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:44:57,436] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:39:57.436734+00:00
+[2019-09-23 09:45:07,454] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:45:07,456] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:40:07.456199+00:00
+[2019-09-23 09:45:17,472] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:45:17,473] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:40:17.473278+00:00
+[2019-09-23 09:45:26,456] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  28522  0.00s      1.00s           2019-09-23T09:45:26
+================================================================================
+[2019-09-23 09:45:28,452] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:45:28,454] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:40:28.454472+00:00
+[2019-09-23 09:45:38,474] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:45:38,475] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:40:38.475565+00:00
+[2019-09-23 09:45:48,487] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:45:48,488] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:40:48.488854+00:00
+[2019-09-23 09:45:56,469] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  28642  0.00s      1.00s           2019-09-23T09:45:56
+================================================================================
+[2019-09-23 09:45:59,469] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:45:59,470] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:40:59.470638+00:00
+[2019-09-23 09:46:09,484] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:46:09,486] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:41:09.486363+00:00
+[2019-09-23 09:46:19,499] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:46:19,500] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:41:19.500858+00:00
+[2019-09-23 09:46:26,486] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  28762  0.00s      1.00s           2019-09-23T09:46:26
+================================================================================
+[2019-09-23 09:46:30,484] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:46:30,485] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:41:30.485361+00:00
+[2019-09-23 09:46:40,501] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:46:40,503] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:41:40.503260+00:00
+[2019-09-23 09:46:50,517] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:46:50,519] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:41:50.519446+00:00
+[2019-09-23 09:46:56,500] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  28882  0.00s      1.00s           2019-09-23T09:46:56
+================================================================================
+[2019-09-23 09:47:01,507] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:47:01,509] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:42:01.509418+00:00
+[2019-09-23 09:47:11,526] {dag_processing.py:899} INFO - Searching for files in /root/dags
+[2019-09-23 09:47:11,549] {dag_processing.py:902} INFO - There are 1 files in /root/dags
+[2019-09-23 09:47:11,554] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:47:11,555] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:42:11.555595+00:00
+[2019-09-23 09:47:22,507] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:47:22,514] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:42:22.514428+00:00
+[2019-09-23 09:47:26,522] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  29002  0.00s      1.00s           2019-09-23T09:47:26
+================================================================================
+[2019-09-23 09:47:32,530] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:47:32,532] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:42:32.532846+00:00
+[2019-09-23 09:47:42,547] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:47:42,548] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:42:42.548741+00:00
+[2019-09-23 09:47:53,533] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:47:53,534] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:42:53.534494+00:00
+[2019-09-23 09:47:56,543] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  29122  0.00s      1.00s           2019-09-23T09:47:56
+================================================================================
+[2019-09-23 09:48:03,549] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:48:03,550] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:43:03.550850+00:00
+[2019-09-23 09:48:13,563] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:48:13,565] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:43:13.565588+00:00
+[2019-09-23 09:48:24,545] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:48:24,546] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:43:24.546920+00:00
+[2019-09-23 09:48:26,556] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  29242  0.00s      1.00s           2019-09-23T09:48:26
+================================================================================
+[2019-09-23 09:48:34,565] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:48:34,567] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:43:34.567712+00:00
+[2019-09-23 09:48:44,582] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:48:44,584] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:43:44.584588+00:00
+[2019-09-23 09:48:55,563] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:48:55,564] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:43:55.564515+00:00
+[2019-09-23 09:48:56,570] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  29362  0.00s      0.99s           2019-09-23T09:48:56
+================================================================================
+[2019-09-23 09:49:05,579] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:49:05,581] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:44:05.581319+00:00
+[2019-09-23 09:49:15,598] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:49:15,601] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:44:15.601639+00:00
+[2019-09-23 09:49:26,584] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:49:26,585] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:44:26.585737+00:00
+[2019-09-23 09:49:26,597] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  29482  0.00s      1.00s           2019-09-23T09:49:26
+================================================================================
+[2019-09-23 09:49:36,601] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:49:36,604] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:44:36.604596+00:00
+[2019-09-23 09:49:46,619] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:49:46,621] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:44:46.621124+00:00
+[2019-09-23 09:49:56,609] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  29602  0.00s      1.00s           2019-09-23T09:49:56
+================================================================================
+[2019-09-23 09:49:57,602] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:49:57,603] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:44:57.603927+00:00
+[2019-09-23 09:50:07,616] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:50:07,618] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:45:07.617976+00:00
+[2019-09-23 09:50:17,633] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:50:17,635] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:45:17.635081+00:00
+[2019-09-23 09:50:27,617] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  29726  0.00s      1.00s           2019-09-23T09:50:27
+================================================================================
+[2019-09-23 09:50:28,612] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:50:28,613] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:45:28.613802+00:00
+[2019-09-23 09:50:38,627] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:50:38,629] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:45:38.629244+00:00
+[2019-09-23 09:50:48,640] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:50:48,642] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:45:48.642260+00:00
+[2019-09-23 09:50:57,627] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  29846  0.00s      1.00s           2019-09-23T09:50:57
+================================================================================
+[2019-09-23 09:50:59,622] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:50:59,623] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:45:59.623496+00:00
+[2019-09-23 09:51:09,638] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:51:09,639] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:46:09.639488+00:00
+[2019-09-23 09:51:19,654] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:51:19,656] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:46:19.656434+00:00
+[2019-09-23 09:51:27,642] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  29966  0.00s      1.00s           2019-09-23T09:51:27
+================================================================================
+[2019-09-23 09:51:30,637] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:51:30,639] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:46:30.639167+00:00
+[2019-09-23 09:51:40,656] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:51:40,659] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:46:40.659133+00:00
+[2019-09-23 09:51:51,636] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:51:51,637] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:46:51.637466+00:00
+[2019-09-23 09:51:57,651] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  30086  0.00s      1.00s           2019-09-23T09:51:57
+================================================================================
+[2019-09-23 09:52:01,653] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:52:01,655] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:47:01.655480+00:00
+[2019-09-23 09:52:11,669] {dag_processing.py:899} INFO - Searching for files in /root/dags
+[2019-09-23 09:52:11,685] {dag_processing.py:902} INFO - There are 1 files in /root/dags
+[2019-09-23 09:52:11,691] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:52:11,692] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:47:11.692577+00:00
+[2019-09-23 09:52:22,651] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:52:22,652] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:47:22.652623+00:00
+[2019-09-23 09:52:27,663] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  30206  0.00s      1.00s           2019-09-23T09:52:27
+================================================================================
+[2019-09-23 09:52:32,666] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:52:32,669] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:47:32.668948+00:00
+[2019-09-23 09:52:42,679] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:52:42,681] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:47:42.681691+00:00
+[2019-09-23 09:52:53,663] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:52:53,664] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:47:53.664600+00:00
+[2019-09-23 09:52:57,675] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  30326  0.00s      1.00s           2019-09-23T09:52:57
+================================================================================
+[2019-09-23 09:53:03,681] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:53:03,683] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:48:03.683176+00:00
+[2019-09-23 09:53:13,704] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:53:13,706] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:48:13.706176+00:00
+[2019-09-23 09:53:24,684] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:53:24,685] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:48:24.685699+00:00
+[2019-09-23 09:53:27,695] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  30446  0.00s      0.99s           2019-09-23T09:53:27
+================================================================================
+[2019-09-23 09:53:34,700] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:53:34,701] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:48:34.701720+00:00
+[2019-09-23 09:53:44,717] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:53:44,719] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:48:44.719282+00:00
+[2019-09-23 09:53:55,699] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:53:55,700] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:48:55.700859+00:00
+[2019-09-23 09:53:57,709] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  30566  0.00s      1.00s           2019-09-23T09:53:57
+================================================================================
+[2019-09-23 09:54:05,716] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:54:05,717] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:49:05.717658+00:00
+[2019-09-23 09:54:15,733] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:54:15,734] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:49:15.734927+00:00
+[2019-09-23 09:54:26,719] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:54:26,721] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:49:26.721776+00:00
+[2019-09-23 09:54:27,725] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  30686  0.00s      0.98s           2019-09-23T09:54:27
+================================================================================
+[2019-09-23 09:54:36,734] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:54:36,749] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:49:36.749178+00:00
+[2019-09-23 09:54:47,752] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:54:47,754] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:49:47.754609+00:00
+[2019-09-23 09:54:57,740] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  30806  0.00s      1.00s           2019-09-23T09:54:57
+================================================================================
+[2019-09-23 09:54:58,735] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:54:58,736] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:49:58.736322+00:00
+[2019-09-23 09:55:08,755] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:55:08,756] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:50:08.756761+00:00
+[2019-09-23 09:55:18,769] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:55:18,771] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:50:18.771213+00:00
+[2019-09-23 09:55:27,752] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  30926  0.00s      1.00s           2019-09-23T09:55:27
+================================================================================
+[2019-09-23 09:55:29,749] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:55:29,751] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:50:29.751149+00:00
+[2019-09-23 09:55:39,770] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:55:39,771] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:50:39.771596+00:00
+[2019-09-23 09:55:49,787] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:55:49,788] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:50:49.788737+00:00
+[2019-09-23 09:55:57,771] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  31046  0.00s      1.00s           2019-09-23T09:55:57
+================================================================================
+[2019-09-23 09:56:00,769] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:56:00,771] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:51:00.771082+00:00
+[2019-09-23 09:56:10,787] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:56:10,788] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:51:10.788373+00:00
+[2019-09-23 09:56:21,768] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:56:21,770] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:51:21.770402+00:00
+[2019-09-23 09:56:27,785] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  31166  0.00s      1.00s           2019-09-23T09:56:27
+================================================================================
+[2019-09-23 09:56:31,787] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:56:31,789] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:51:31.789125+00:00
+[2019-09-23 09:56:41,805] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:56:41,807] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:51:41.807610+00:00
+[2019-09-23 09:56:52,795] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:56:52,797] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:51:52.797214+00:00
+[2019-09-23 09:56:57,807] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  31286  0.00s      1.00s           2019-09-23T09:56:57
+================================================================================
+[2019-09-23 09:57:02,811] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:57:02,812] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:52:02.812643+00:00
+[2019-09-23 09:57:11,828] {dag_processing.py:899} INFO - Searching for files in /root/dags
+[2019-09-23 09:57:11,842] {dag_processing.py:902} INFO - There are 1 files in /root/dags
+[2019-09-23 09:57:12,829] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:57:12,831] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:52:12.831361+00:00
+[2019-09-23 09:57:23,809] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:57:23,810] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:52:23.810333+00:00
+[2019-09-23 09:57:27,821] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  31406  0.00s      1.00s           2019-09-23T09:57:27
+================================================================================
+[2019-09-23 09:57:33,824] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:57:33,825] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:52:33.825925+00:00
+[2019-09-23 09:57:43,842] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:57:43,843] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:52:43.843926+00:00
+[2019-09-23 09:57:54,826] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:57:54,828] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:52:54.827977+00:00
+[2019-09-23 09:57:57,838] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  31526  0.00s      1.00s           2019-09-23T09:57:57
+================================================================================
+[2019-09-23 09:58:04,844] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:58:04,846] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:53:04.846412+00:00
+[2019-09-23 09:58:14,857] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:58:14,859] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:53:14.858983+00:00
+[2019-09-23 09:58:25,841] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:58:25,842] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:53:25.842915+00:00
+[2019-09-23 09:58:27,849] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  31646  0.00s      1.00s           2019-09-23T09:58:27
+================================================================================
+[2019-09-23 09:58:35,859] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:58:35,861] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:53:35.861063+00:00
+[2019-09-23 09:58:45,874] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:58:45,876] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:53:45.876354+00:00
+[2019-09-23 09:58:56,858] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:58:56,860] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:53:56.860019+00:00
+[2019-09-23 09:58:57,869] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  31766  0.00s      0.99s           2019-09-23T09:58:57
+================================================================================
+[2019-09-23 09:59:06,875] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:59:06,877] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:54:06.877193+00:00
+[2019-09-23 09:59:16,891] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:59:16,892] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:54:16.892487+00:00
+[2019-09-23 09:59:27,880] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:59:27,881] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:54:27.881868+00:00
+[2019-09-23 09:59:27,893] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  31886  0.00s      1.00s           2019-09-23T09:59:27
+================================================================================
+[2019-09-23 09:59:37,901] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:59:37,902] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:54:37.902854+00:00
+[2019-09-23 09:59:47,917] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:59:47,918] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:54:47.918920+00:00
+[2019-09-23 09:59:57,907] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  32006  0.00s      1.00s           2019-09-23T09:59:57
+================================================================================
+[2019-09-23 09:59:58,904] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 09:59:58,905] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:54:58.905596+00:00
+[2019-09-23 10:00:08,919] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:00:08,927] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:55:08.927460+00:00
+[2019-09-23 10:00:19,932] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:00:19,934] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:55:19.933977+00:00
+[2019-09-23 10:00:27,917] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  32126  0.00s      1.00s           2019-09-23T10:00:27
+================================================================================
+[2019-09-23 10:00:30,915] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:00:30,917] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:55:30.917101+00:00
+[2019-09-23 10:00:40,932] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:00:40,934] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:55:40.934622+00:00
+[2019-09-23 10:00:51,912] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:00:51,914] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:55:51.914413+00:00
+[2019-09-23 10:00:57,926] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  32246  0.00s      1.00s           2019-09-23T10:00:57
+================================================================================
+[2019-09-23 10:01:01,928] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:01:01,930] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:56:01.930533+00:00
+[2019-09-23 10:01:11,941] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:01:11,942] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:56:11.942337+00:00
+[2019-09-23 10:01:22,928] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:01:22,930] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:56:22.930203+00:00
+[2019-09-23 10:01:27,943] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  32366  0.00s      1.00s           2019-09-23T10:01:27
+================================================================================
+[2019-09-23 10:01:32,945] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:01:32,946] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:56:32.946709+00:00
+[2019-09-23 10:01:42,962] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:01:42,964] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:56:42.963964+00:00
+[2019-09-23 10:01:53,945] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:01:53,946] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:56:53.946599+00:00
+[2019-09-23 10:01:57,957] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  32486  0.00s      1.00s           2019-09-23T10:01:57
+================================================================================
+[2019-09-23 10:02:03,960] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:02:03,961] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:57:03.961339+00:00
+[2019-09-23 10:02:11,973] {dag_processing.py:899} INFO - Searching for files in /root/dags
+[2019-09-23 10:02:12,005] {dag_processing.py:902} INFO - There are 1 files in /root/dags
+[2019-09-23 10:02:13,978] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:02:13,979] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:57:13.979880+00:00
+[2019-09-23 10:02:24,965] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:02:24,967] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:57:24.966944+00:00
+[2019-09-23 10:02:27,975] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  32606  0.00s      1.00s           2019-09-23T10:02:27
+================================================================================
+[2019-09-23 10:02:34,980] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:02:34,981] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:57:34.981840+00:00
+[2019-09-23 10:02:44,998] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:02:45,002] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:57:45.002228+00:00
+[2019-09-23 10:02:55,981] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:02:55,983] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:57:55.983041+00:00
+[2019-09-23 10:02:57,990] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  32726  0.00s      1.00s           2019-09-23T10:02:57
+================================================================================
+[2019-09-23 10:03:05,996] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:03:06,001] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:58:06.001494+00:00
+[2019-09-23 10:03:16,015] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:03:16,017] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:58:16.017516+00:00
+[2019-09-23 10:03:26,999] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:03:27,001] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:58:27.000963+00:00
+[2019-09-23 10:03:28,010] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  32846  0.00s      0.99s           2019-09-23T10:03:28
+================================================================================
+[2019-09-23 10:03:37,016] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:03:37,017] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:58:37.017634+00:00
+[2019-09-23 10:03:47,032] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:03:47,033] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:58:47.033242+00:00
+[2019-09-23 10:03:58,015] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:03:58,017] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:58:58.017470+00:00
+[2019-09-23 10:03:58,033] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  32966  0.00s      1.00s           2019-09-23T10:03:58
+================================================================================
+[2019-09-23 10:04:08,029] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:04:08,031] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:59:08.030979+00:00
+[2019-09-23 10:04:18,050] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:04:18,051] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:59:18.051550+00:00
+[2019-09-23 10:04:29,032] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:04:29,033] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:59:29.033616+00:00
+[2019-09-23 10:04:29,047] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  33090  0.00s      1.00s           2019-09-23T10:04:29
+================================================================================
+[2019-09-23 10:04:39,055] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:04:39,056] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:59:39.056148+00:00
+[2019-09-23 10:04:49,072] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:04:49,074] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 09:59:49.074673+00:00
+[2019-09-23 10:04:59,062] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  33210  0.00s      1.00s           2019-09-23T10:04:59
+================================================================================
+[2019-09-23 10:05:00,055] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:05:00,057] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:00:00.057530+00:00
+[2019-09-23 10:05:10,072] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:05:10,074] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:00:10.074359+00:00
+[2019-09-23 10:05:21,057] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:05:21,064] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:00:21.064378+00:00
+[2019-09-23 10:05:29,080] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  33330  0.00s      1.00s           2019-09-23T10:05:29
+================================================================================
+[2019-09-23 10:05:31,076] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:05:31,077] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:00:31.077034+00:00
+[2019-09-23 10:05:41,090] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:05:41,093] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:00:41.093497+00:00
+[2019-09-23 10:05:52,076] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:05:52,077] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:00:52.077510+00:00
+[2019-09-23 10:05:59,096] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  33450  0.00s      1.00s           2019-09-23T10:05:59
+================================================================================
+[2019-09-23 10:06:02,093] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:06:02,094] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:01:02.094703+00:00
+[2019-09-23 10:06:12,106] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:06:12,108] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:01:12.108036+00:00
+[2019-09-23 10:06:23,089] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:06:23,090] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:01:23.090208+00:00
+[2019-09-23 10:06:29,104] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  33570  0.00s      1.00s           2019-09-23T10:06:29
+================================================================================
+[2019-09-23 10:06:33,104] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:06:33,106] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:01:33.106349+00:00
+[2019-09-23 10:06:43,118] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:06:43,121] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:01:43.121550+00:00
+[2019-09-23 10:06:54,101] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:06:54,104] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:01:54.104677+00:00
+[2019-09-23 10:06:59,114] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  33690  0.00s      1.00s           2019-09-23T10:06:59
+================================================================================
+[2019-09-23 10:07:04,117] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:07:04,121] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:02:04.121200+00:00
+[2019-09-23 10:07:12,131] {dag_processing.py:899} INFO - Searching for files in /root/dags
+[2019-09-23 10:07:12,146] {dag_processing.py:902} INFO - There are 1 files in /root/dags
+[2019-09-23 10:07:14,135] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:07:14,137] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:02:14.137515+00:00
+[2019-09-23 10:07:25,115] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:07:25,118] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:02:25.118024+00:00
+[2019-09-23 10:07:29,129] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  33810  0.00s      1.00s           2019-09-23T10:07:29
+================================================================================
+[2019-09-23 10:07:35,139] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:07:35,140] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:02:35.140603+00:00
+[2019-09-23 10:07:45,158] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:07:45,160] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:02:45.160256+00:00
+[2019-09-23 10:07:56,140] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:07:56,142] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:02:56.142454+00:00
+[2019-09-23 10:07:59,154] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  33930  0.00s      1.00s           2019-09-23T10:07:59
+================================================================================
+[2019-09-23 10:08:06,159] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:08:06,160] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:03:06.160880+00:00
+[2019-09-23 10:08:16,176] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:08:16,178] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:03:16.178170+00:00
+[2019-09-23 10:08:27,164] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:08:27,166] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:03:27.166700+00:00
+[2019-09-23 10:08:29,173] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  34050  0.00s      1.00s           2019-09-23T10:08:29
+================================================================================
+[2019-09-23 10:08:37,181] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:08:37,183] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:03:37.183355+00:00
+[2019-09-23 10:08:47,201] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:08:47,202] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:03:47.202625+00:00
+[2019-09-23 10:08:58,185] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:08:58,187] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:03:58.187071+00:00
+[2019-09-23 10:08:59,194] {dag_processing.py:1011} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID  Runtime    Last Runtime    Last Run
+--------------------------------  -----  ---------  --------------  -------------------
+/root/dags/add_packages_to_db.py  34170  0.00s      0.99s           2019-09-23T10:08:59
+================================================================================
+[2019-09-23 10:09:08,208] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:09:08,209] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:04:08.209767+00:00
+[2019-09-23 10:09:18,222] {dag_processing.py:1232} INFO - Finding 'running' jobs without a recent heartbeat
+[2019-09-23 10:09:18,224] {dag_processing.py:1236} INFO - Failing jobs without heartbeat after 2019-09-23 10:04:18.224056+00:00

@@ -13,6 +13,7 @@ dependencies:
   - psycopg2
   - paramiko
   - pymongo
+  - termcolor
   - pip:
     - Flask==1.0.4
     - Flask-Cors

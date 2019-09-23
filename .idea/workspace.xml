@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4abc0698-21ab-40ce-9584-39a8021ec6d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pkgs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkgs/biosails_biostacks_cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkgs/biosails_biostacks_cli/biosails_biostacks_cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkgs/biosails_biostacks_cli/cli.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airflow/airflow-webserver.pid" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/airflow/logs/dag_processor_manager/dag_processor_manager.log" beforeDir="false" afterPath="$PROJECT_DIR$/airflow/logs/dag_processor_manager/dag_processor_manager.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airflow/logs/scheduler/2019-09-22/add_packages_to_db.py.log" beforeDir="false" afterPath="$PROJECT_DIR$/airflow/logs/scheduler/2019-09-22/add_packages_to_db.py.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dags/add_packages_to_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/dags/add_packages_to_db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/search_gencore_modules_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/search_gencore_modules_api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/templates/search_plugin/search_plugin.html" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/templates/search_plugin/search_plugin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airflow/logs/scheduler/2019-09-23/add_packages_to_db.py.log" beforeDir="false" afterPath="$PROJECT_DIR$/airflow/logs/scheduler/2019-09-23/add_packages_to_db.py.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/environment.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +22,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5632">
+            <state relative-caret-position="-1240">
               <caret line="165" column="13" selection-start-line="165" selection-start-column="13" selection-end-line="165" selection-end-column="13" />
               <folding>
                 <element signature="e#271#548#0" />
@@ -32,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/plugins/search_gencore_modules_api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            <state>
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#50#99#0" expanded="true" />
               </folding>
@@ -45,17 +46,47 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugins/templates/search_plugin/search_plugin.html">
+        <entry file="file://$PROJECT_DIR$/pkgs/biosails_biostacks_cli/cli.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4180">
-              <caret line="95" selection-start-line="95" selection-end-line="95" />
+            <state relative-caret-position="258">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
-                <element signature="n#style#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pkgs/setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pkgs/funniest/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pkgs/funniest/command_line.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pkgs/biosails_biostacks_cli/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pkgs/biosails_biostacks_cli/biosails_biostacks_cli/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -73,13 +104,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/environment.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="282">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -87,11 +125,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/environment.yml" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/plugins/templates/search_plugin/search_plugin.html" />
         <option value="$PROJECT_DIR$/dags/add_packages_to_db.py" />
         <option value="$PROJECT_DIR$/plugins/search_gencore_modules_api.py" />
+        <option value="$PROJECT_DIR$/environment.yml" />
+        <option value="$PROJECT_DIR$/pkgs/biosails-biostacks-cli-2/setup.py" />
+        <option value="$PROJECT_DIR$/pkgs/biosails-biostacks-cli/setup.py" />
+        <option value="$PROJECT_DIR$/pkgs/biosails-biostacks-cli/biosails-biostacks-cli/cli.py" />
+        <option value="$PROJECT_DIR$/pkgs/funniest/command_line.py" />
+        <option value="$PROJECT_DIR$/pkgs/biosails-biostacks-cli/cli.py" />
+        <option value="$PROJECT_DIR$/pkgs/setup.py" />
       </list>
     </option>
   </component>
@@ -117,6 +161,23 @@
               <item name="biosails-biostacks-api" type="b2602c69:ProjectViewProjectNode" />
               <item name="biosails-biostacks-api" type="462c0819:PsiDirectoryNode" />
               <item name="airflow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="biosails-biostacks-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="biosails-biostacks-api" type="462c0819:PsiDirectoryNode" />
+              <item name="pkgs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="biosails-biostacks-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="biosails-biostacks-api" type="462c0819:PsiDirectoryNode" />
+              <item name="pkgs" type="462c0819:PsiDirectoryNode" />
+              <item name="biosails_biostacks_cli" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="biosails-biostacks-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="biosails-biostacks-api" type="462c0819:PsiDirectoryNode" />
+              <item name="pkgs" type="462c0819:PsiDirectoryNode" />
+              <item name="funniest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="biosails-biostacks-api" type="b2602c69:ProjectViewProjectNode" />
@@ -160,6 +221,13 @@
   <component name="PyDebuggerOptionsProvider">
     <option name="myPyQtBackend" value="PyQt5" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pkgs/biosails-biostacks-cli" />
+      <recent name="$PROJECT_DIR$/pkgs/biosails-biostacks-cli-2" />
+      <recent name="$PROJECT_DIR$/pkgs" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -184,16 +252,15 @@
       <updated>1568523037119</updated>
       <workItem from="1568523040405" duration="9627000" />
       <workItem from="1569133565377" duration="8205000" />
-      <workItem from="1569163682999" duration="1679000" />
+      <workItem from="1569163682999" duration="4923000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19511000" />
+    <option name="totallyTimeSpent" value="22755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1002" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18681319" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -227,18 +294,6 @@
         <state relative-caret-position="-179" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5632">
-          <caret line="165" column="13" selection-start-line="165" selection-start-column="13" selection-end-line="165" selection-end-column="13" />
-          <folding>
-            <element signature="e#271#548#0" />
-            <element signature="e#552#1070#0" />
-            <element signature="e#1074#1558#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/templates/search_plugin/search_plugin.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4180">
@@ -261,19 +316,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/environment.yml">
+    <entry file="file://$PROJECT_DIR$/plugins/search_gencore_modules_api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        <state>
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#50#99#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/search_gencore_modules_api.py">
+    <entry file="file://$PROJECT_DIR$/environment.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="282">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkgs/biosails_biostacks_cli/biosails_biostacks_cli/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1240">
+          <caret line="165" column="13" selection-start-line="165" selection-start-column="13" selection-end-line="165" selection-end-column="13" />
           <folding>
-            <element signature="e#50#99#0" expanded="true" />
+            <element signature="e#271#548#0" />
+            <element signature="e#552#1070#0" />
+            <element signature="e#1074#1558#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkgs/biosails-biostacks-cli/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkgs/funniest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkgs/funniest/command_line.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkgs/biosails_biostacks_cli/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkgs/biosails_biostacks_cli/cli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pkgs/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
